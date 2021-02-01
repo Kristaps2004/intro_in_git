@@ -9,5 +9,6 @@ git clone https://github.com/Kristaps2004/intro_in_git.git #Lain noklonētu proj
 
 git add .
 git commit -m "Veiktās izmaiņas!"
+git push origin main
 
-```
+```git
