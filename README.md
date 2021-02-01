@@ -11,4 +11,4 @@ git add .
 git commit -m "Veiktās izmaiņas!"
 git push origin main
 
-```git
+```
